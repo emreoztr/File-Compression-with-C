@@ -1,4 +1,6 @@
 # C-File-Compressor
+Write "make" to Terminal to start the program, there is an example reference.txt
+
 A homework from my second year.
 
 Program using Huffman Coding Tree method to compress the file.
