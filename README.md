@@ -1,4 +1,4 @@
-# C-File-Compressor
+# File-Compressor-with-C
 Write "make" to Terminal to start the program, there is an example reference.txt
 
 A homework from my second year.
