@@ -1,7 +1,7 @@
 # File-Compressor-with-C
 Write "make" to Terminal to start the program, there is an example reference.txt
 
-A homework from my second year.
+A homework from my first year.
 
 Program using Huffman Coding Tree method to compress the file.
 Takes the information from the "reference.txt" and creates a Huffman Coding Tree, then program creates "encoded.dat" file which is
